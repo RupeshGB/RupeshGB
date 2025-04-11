@@ -7,7 +7,7 @@ I'm a passionate Computer Science student at Georgia Tech 🎓, specializing in 
  🌟 Education:
 - Georgia Tech 🎓  
   Bachelor of Science in Computer Science (AI, Data Structures, Graphics)  
-  GPA: 3.9 📈
+  
 
  🧑‍💻 Programming Languages:
 - Python 🐍
