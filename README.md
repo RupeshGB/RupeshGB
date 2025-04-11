@@ -2,7 +2,7 @@
 
  Hey there! I'm Rupesh 👋
 
-I'm a passionate Computer Science student at Georgia Tech 🎓, specializing in FullStack Development, Data Structures, Graphics and AI. I'm constantly learning, solving problems, and pushing the boundaries of technology 🚀.
+I'm a Computer Science graduate from Georgia Tech 🎓, specializing in FullStack Development, Data Structures, Graphics and AI. I'm constantly learning, solving problems, and pushing the boundaries of technology 🚀.
 
  🌟 Education:
 - Georgia Tech 🎓  
