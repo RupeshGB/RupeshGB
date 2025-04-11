@@ -7,6 +7,8 @@ I'm a Computer Science graduate from Georgia Tech 🎓, specializing in FullStac
  🌟 Education:
 - Georgia Tech 🎓  
   Bachelor of Science in Computer Science (AI, Data Structures, Graphics)  
+
+📫 How to reach me rupeshsaranbala@gmail.com
   
 
  🧑‍💻 Programming Languages:
