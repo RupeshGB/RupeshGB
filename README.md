@@ -7,7 +7,7 @@ Featured Projects
 
 - Rent Harbor  (Full-Stack Property Management)
 - Potato Blight Detection  (Deep Learning / Computer Vision)
-- L Algorithms — (Machine Learning Fundamentals)
+- ML Algorithms — (Machine Learning Fundamentals)
 - Event/Data Pipeline — (Python + SQL)
 - Image Recognition — (Computer Vision)
 
