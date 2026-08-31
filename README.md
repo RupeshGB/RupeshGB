@@ -1,8 +1,15 @@
+Hey there! I'm Rupesh 👋
 
+Software Engineer focused on backend and full-stack systems.
+Georgia Tech CS graduate with experience building REST APIs, data pipelines, ML systems, and production-style applications using Java, Python, C++, JavaScript, React, Node.js, SQL, Docker, and AWS.
 
- Hey there! I'm Rupesh 👋
+Featured Projects
 
-I'm a Computer Science graduate from Georgia Tech 🎓, specializing in FullStack Development, Data Structures, Graphics and AI. I'm constantly learning, solving problems, and pushing the boundaries of technology 🚀.
+Rent Harbor — Full-Stack Property Management
+Potato Blight Detection — Deep Learning / Computer Vision
+ML Algorithms — Machine Learning Fundamentals
+Event/Data Pipeline — Python + SQL
+Image Recognition — Computer Vision
 
  🌟 Education:
 - Georgia Tech 🎓  
